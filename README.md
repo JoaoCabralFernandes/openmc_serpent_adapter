@@ -5,7 +5,7 @@
 This repository provides tools for parsing/converting Serpent models to OpenMC
 classes and/or XML files. To install these tools, run:
 
-    python -m pip install git+https://github.com/openmc-dev/openmc_serpent_adapter.git
+    python -m pip install git+https://github.com/JoaoCabralFernandes/openmc_serpent_adapter.git
 
 This makes the `openmc_serpent_adapter` Python module and `serpent_to_openmc`
 console script available. To convert an Serpent model, run:
